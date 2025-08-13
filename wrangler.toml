@@ -1,3 +1,3 @@
-name = "tmdb-trailer-worker"
+name = "tmdb-trailer"
 main = "src/index.js"
 compatibility_date = "2025-08-13"
