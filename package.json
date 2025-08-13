@@ -1,0 +1,7 @@
+{
+  "name": "tmdb-trailer-worker",
+  "version": "1.0.0",
+  "dependencies": {
+    "itty-router": "^3.0.0"
+  }
+}
