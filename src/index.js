@@ -1,7 +1,7 @@
 import { Router } from 'itty-router';
 
 const router = Router();
-const TMDB_API_KEY = '<YOUR_TMDB_API_KEY>'; // Replace this!
+const TMDB_API_KEY = 'af1f708691a1a8fa6862a85e2cc240ea'; // Replace this!
 
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 
